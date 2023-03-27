@@ -1,7 +1,7 @@
 #include "main.h"
 
  /**
-  * puts_half - Prints half of a string
+  * puts_half - Prints half of a spring
   * @str: The string to print
   * Return: void
   */
