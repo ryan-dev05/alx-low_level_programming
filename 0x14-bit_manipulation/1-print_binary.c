@@ -16,7 +16,7 @@ void print_binary(unsigned long int n)
 		if (las & 1)
 		{
 			_putchar('1');
-			f++;
+			k++;
 		}
 		else if (k)
 			_putchar('0');
